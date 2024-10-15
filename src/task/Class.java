@@ -3,6 +3,7 @@ package task;
 import java.util.ArrayList;
 
 public class Class {
+    
     private String name;
     private ArrayList<Group> groups;
     private ArrayList<Student> students;
